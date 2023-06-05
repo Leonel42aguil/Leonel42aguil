@@ -1,16 +1,29 @@
-### Hi there 👋
+Front-End Developer
+¡Hola! 👋 Soy un Front-End Developer especializado en React, Redux, CSS y en la creación de sitios web atractivos y eficientes. Mi objetivo es aumentar las oportunidades laborales a través del trabajo y la creatividad.
 
-<!--
-**Leonel42aguil/Leonel42aguil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades
+💻 React
+🔗 Redux
+🎨 CSS
+🌐 HTML
+🚀 JavaScript
+📦 Git
+🌟 Diseño Responsivo
+🎨 Principios de Diseño UI/UX
+Proyectos
+Aquí algunos de los proyectos en los que he trabajado:
 
-Here are some ideas to get you started:
+🛒 Proyecto ecommerce: Desarrollé un sitio web de comercio electrónico responsive utilizando React, Redux y CSS. Implementé autenticación de usuarios, funcionalidad de carrito de compras e integré una pasarela de pago segura.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contacto
+Si estás interesado en colaborar en un proyecto o tienes alguna consulta, no dudes en contactarme:
+
+📧 Email: leonelcarp142nuevo@gmail.com
+💼 LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/leonelchatard/)
+¡Creemos sitios web increíbles juntos! 😄🚀
+
+
+
+
+
+
