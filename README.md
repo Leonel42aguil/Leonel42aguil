@@ -19,7 +19,7 @@ Contacto
 Si estás interesado en colaborar en un proyecto o tienes alguna consulta, no dudes en contactarme:
 
 📧 Email: leonelcarp142nuevo@gmail.com
-💼 LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/leonelchatard/)
+💼 LinkedIn:(https://www.linkedin.com/in/leonelchatard/)
 ¡Creemos sitios web increíbles juntos! 😄🚀
 
 
