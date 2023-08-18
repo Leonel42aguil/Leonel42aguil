@@ -43,10 +43,10 @@ En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño r
 </p>
 
 
-<h3> Challenge Carousel-App </h3> <a href="https://github.com/gonzalo12348/Carousel-App" target="_blank">Check code</a>
+<h3> App-Clima </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif">Check code</a>
 <p>  Challenge que realice en 1 - 2 casi días utilizando solo React Native expo y estilos sin librerías, aplicación con una sola pantalla que contenga un carrusel, sin utilizar bibliotecas o complementos de "carrusel" existentes ya que con bibliotecas es tan simple como instalarla y listo.</br>
 <p> 
-  <a><img width="70%" src="https://github.com/gonzalo12348/Carousel-App/blob/main/carousel-app.gif"></a>
+  <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif"></a>
 </p>
 
 
