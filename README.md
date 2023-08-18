@@ -22,13 +22,15 @@ Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-Portafolio.gif"></a>
 </p>
 
-<h3> Videogame App </h3> <a href="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual" target="_blank">Check code</a>
+<h3> Videogame App </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif" target="_blank">Check code</a>
 <p> Aplicacion web donde podes encontrar informacion de todos los videojuegos y tambien la oportunidad de poder simular la creacion de informacion de uno mismo .</p>
 <p> 
-  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(136).png"></a>
+  <!-- <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(136).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(137).png"></a>
   <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(135).png"></a>
-  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a>
+  <a><img width="70%" src="https://github.com/gonzalo12348/gonzalo12348/blob/main/Captura%20de%20pantalla%20(138).png"></a> -->
+
+  <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif"></a>
 </p>
 
 <h3> Yoagronomo </h3> <a href="https://github.com/gonzalo12348/yoAgronomoApp" target="_blank">Check code</a>
