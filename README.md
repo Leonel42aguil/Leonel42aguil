@@ -26,11 +26,12 @@
   </p> 
 
 
-<h3> Portafolio </h3> <a href=" https://portafolio-nuevo-one.vercel.app/" target="_blank">Check code</a>
+<h3> Portafolio </h3> <a href="https://portafolio-nuevo-one.vercel.app/" target="_blank">Check code</a>
 <p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi. </br>
 Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
 <p> 
-  <a href=" https://portafolio-nuevo-one.vercel.app/"><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-Portafolio.gif"></a>
+  <a href="https://portafolio-nuevo-one.vercel.app/"><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-Portafolio.gif"></a>
+   <a href="https://portafolio-nuevo-one.vercel.app/" target="_blank">Check code</a>
 </p>
 
 <h3 align="left">Proyectos:</h3>
