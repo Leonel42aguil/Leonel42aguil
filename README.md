@@ -27,8 +27,7 @@
 
 
 <h3> Portafolio </h3> <a href="https://portafolio-nuevo-one.vercel.app/" target="_blank">Check code</a>
-<p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi. </br>
-Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
+<p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi.</p></br>
 <p> 
   <a href="https://portafolio-nuevo-one.vercel.app/"><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-Portafolio.gif"></a>
 </p>
@@ -45,11 +44,10 @@ Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
 
 <h3> Perisferia ! </h3> <a href="https://github.com/Leonel42aguil/Perisferia-Store" target="_blank">Check code</a>
 <p> Aplicacion Web para Potencia tu setup gamer o laboral, encuentra accesorios tecnológicos de primer nivel y eleva tu experiencia al máximo. </br>
-Las tecnologias utilizadas fueron : Redux, React, CSS, Express, Node.js, JavaScript, PostgreSQL.</br>
-En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño responsive para telefonos moviles, entre otros...</p>
+Las tecnologias utilizadas fueron : React, Tailwind Css, Express, Node.js, JavaScript, Supabase.</br>
+En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otros...</p>
 <p> 
-  <a><img width="70%" src="https://github.com/gonzalo12348/Videojuegos-Proyecto-Individual/blob/main/imgDemo/Yoagronomo.png"></a>
-  <a><img width="70%" src="https://user-images.githubusercontent.com/75500719/124179345-20c3a700-da89-11eb-9cd9-b5291860af88.gif"></a>
+  <a><img width="70%" src="perisferia.png"></a>
 </p>
 
 
