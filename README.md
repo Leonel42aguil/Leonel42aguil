@@ -25,7 +25,6 @@
   </a>
   </p> 
 
-<h3 align="left">Proyectos:</h3>
 
 <h3> Portafolio </h3> <a href=" https://portafolio-nuevo-one.vercel.app/" target="_blank">Check code</a>
 <p> Mi Portafolio web donde muestro mis proyectos y toda informacion sobre mi. </br>
@@ -33,6 +32,8 @@ Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
 <p> 
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-Portafolio.gif"></a>
 </p>
+
+<h3 align="left">Proyectos:</h3>
 
 <h3> Videogame App </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif" target="_blank">Check code</a>
 <p> Aplicacion web donde podes encontrar informacion de todos los videojuegos y tambien la oportunidad de poder simular la creacion de informacion de uno mismo .</p>
