@@ -49,11 +49,11 @@ En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otr
 <p> Aplicacion web donde podes encontrar informacion de todos las razas de perros y tambien la oportunidad de poder de crear una raza simular .</p>
 <p> 
 
-  <a><img width="70%" src="https://github.com/Leonel42aguil/App-Dogs"></a>
+  <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif"></a>
 </p>
 
 
-<h3> App-Clima </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif">Check code</a>
+<h3> App-Clima </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif">Check code</a>
 <p> Experimenta con nuestra Aplicación Web de pronóstico climático en tiempo real. Desarrollada en tan solo 1-2 días, utilizamos React y CSS para brindarte información precisa de múltiples ciudades en todo el mundo. </br>
 <p> 
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif"></a>
