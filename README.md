@@ -47,12 +47,12 @@
 Las tecnologias utilizadas fueron : React, Tailwind Css, Express, Node.js, JavaScript, Supabase.</br>
 En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otros...</p>
 <p> 
-  <a><img width="70%" src="perisferia.png"></a>
+  <a href="https://perisferia-store.vercel.app/" <img width="70%" src="perisferia.png"></a>
 </p>
 
 
 <h3> App-Clima </h3> <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif">Check code</a>
-<p>  Challenge que realice en 1 - 2 casi días utilizando solo React Native expo y estilos sin librerías, aplicación con una sola pantalla que contenga un carrusel, sin utilizar bibliotecas o complementos de "carrusel" existentes ya que con bibliotecas es tan simple como instalarla y listo.</br>
+<p> Experimenta con nuestra Aplicación Web de pronóstico climático en tiempo real. Desarrollada en tan solo 1-2 días, utilizamos React y CSS para brindarte información precisa de múltiples ciudades en todo el mundo. </br>
 <p> 
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif"></a>
 </p>
