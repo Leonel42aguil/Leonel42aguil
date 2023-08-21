@@ -36,15 +36,15 @@ Las tecnologias utilizadas fueron :React, CSS, JavaScript.</p></br>
 <h3 align="left">Proyectos:</h3>
 
 <h3> AppDogs </h3> 
-<!-- <a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif" target="_blank">Check code</a> -->
+<a href="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif" target="_blank">Check code</a>
 <p> Aplicacion web donde podes encontrar informacion de todos las razas de perros y tambien la oportunidad de poder de crear una raza simular .</p>
 <p> 
 
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF.gif"></a>
 </p>
 
-<h3> Yoagronomo </h3> <a href="https://github.com/gonzalo12348/yoAgronomoApp" target="_blank">Check code</a>
-<p> Aplicacion Web para encargados del sector agronomo donde administran y controlan todo su trabajo en dicha industria.</br>
+<h3> Perisferia ! </h3> <a href="https://github.com/Leonel42aguil/Perisferia-Store" target="_blank">Check code</a>
+<p> Aplicacion Web para Potencia tu setup gamer o laboral, encuentra accesorios tecnológicos de primer nivel y eleva tu experiencia al máximo. </br>
 Las tecnologias utilizadas fueron : Redux, React, CSS, Express, Node.js, JavaScript, PostgreSQL.</br>
 En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, diseño responsive para telefonos moviles, entre otros...</p>
 <p> 
