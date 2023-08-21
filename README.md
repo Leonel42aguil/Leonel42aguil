@@ -38,7 +38,7 @@
 <h3> Perisferia ! </h3> <a href="https://github.com/Leonel42aguil/Perisferia-Store" target="_blank">Check code</a>
 <p> Aplicacion Web para Potencia tu setup gamer o laboral, encuentra accesorios tecnológicos de primer nivel y eleva tu experiencia al máximo. </br>
 Las tecnologias utilizadas fueron : React, Tailwind Css, Express, Node.js, JavaScript, Supabase.</br>
-En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otros...</p>
+En mi rol: Encargado principalmente de la creación y optimización del Front-End, además de contribuciones al Back-end y otros aspectos clave...</p>
 <p> 
   <a href="https://perisferia-store.vercel.app/"> <img width="70%" src="perisferia.png"></a>
 </p>
@@ -55,6 +55,7 @@ En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otr
 
 <h3> App-Clima </h3> <a href="https://github.com/Leonel42aguil/AppClima">Check code</a>
 <p> Experimenta con nuestra Aplicación Web de pronóstico climático en tiempo real. Desarrollada en tan solo 1-2 días, utilizamos React y CSS para brindarte información precisa de múltiples ciudades en todo el mundo. </br>
+En mi rol: Full Stack
 <p> 
   <a><img width="70%" src="https://github.com/Leonel42aguil/Leonel42aguil/blob/main/GIF-CLIMA.gif"></a>
 </p>
