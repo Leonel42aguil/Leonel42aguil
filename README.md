@@ -5,9 +5,9 @@
 
 ## Un poco sobre mi :  
 
-- 👨‍💻 Actualmente estoy adquiriendo nuevas tecnologias a mis skills para aplicar en proyectos personales, teniendo como objetivo las buenas practicas para tener un codigo eficiente y escalable
+- 👨‍💻 Actualmente estoy adquiriendo nuevas tecnologías para añadir a mis habilidades y aplicarlas en proyectos personales. Teniendo como objetivo es seguir las buenas prácticas para lograr un código eficiente y escalable.
 
-- 📚 Aspiro a forjar mi camino como un solucionador proactivo, distinguiéndome en el ámbito de la atención al cliente al encarar desafíos con destreza y entrega de soluciones óptimas.
+- 📚 Aspiro a forjar mi camino como un solucionador proactivo, distinguiéndome en el ámbito de la atención al cliente al enfrentar desafíos con destreza y al brindar soluciones óptimas.
 
 - 💪🏼 Futuras Metas: Aprender mas sobre diseño, UX, UI - Ser un desarrollador Senior 😎
 
