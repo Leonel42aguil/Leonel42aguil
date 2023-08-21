@@ -47,7 +47,7 @@
 Las tecnologias utilizadas fueron : React, Tailwind Css, Express, Node.js, JavaScript, Supabase.</br>
 En mi responsabilidad : Mas que todo en Front-End, partes de Back-end, entre otros...</p>
 <p> 
-  <a href="https://perisferia-store.vercel.app/" <img width="70%" src="perisferia.png"></a>
+  <a href="https://perisferia-store.vercel.app/"> <img width="70%" src="perisferia.png"></a>
 </p>
 
 
